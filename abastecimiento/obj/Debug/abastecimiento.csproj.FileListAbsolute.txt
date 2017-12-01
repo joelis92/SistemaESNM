@@ -1,0 +1,9 @@
+C:\Sistema Spinedi\abastecimiento\abastecimiento\bin\Debug\abastecimiento.exe.config
+C:\Sistema Spinedi\abastecimiento\abastecimiento\obj\Debug\abastecimiento.csprojResolveAssemblyReference.cache
+C:\Sistema Spinedi\abastecimiento\abastecimiento\obj\Debug\abastecimiento.Frm_iniciar_sesion.resources
+C:\Sistema Spinedi\abastecimiento\abastecimiento\obj\Debug\abastecimiento.Properties.Resources.resources
+C:\Sistema Spinedi\abastecimiento\abastecimiento\obj\Debug\abastecimiento.csproj.GenerateResource.Cache
+C:\Sistema Spinedi\abastecimiento\abastecimiento\bin\Debug\abastecimiento.exe
+C:\Sistema Spinedi\abastecimiento\abastecimiento\bin\Debug\abastecimiento.pdb
+C:\Sistema Spinedi\abastecimiento\abastecimiento\obj\Debug\abastecimiento.exe
+C:\Sistema Spinedi\abastecimiento\abastecimiento\obj\Debug\abastecimiento.pdb
